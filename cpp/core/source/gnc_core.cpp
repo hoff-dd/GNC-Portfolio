@@ -1,0 +1,1 @@
+// Placeholder translation unit for the gnc_core library.

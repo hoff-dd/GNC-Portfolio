@@ -1,0 +1,30 @@
+# Build directories
+build/
+cmake-build-*/
+out/
+_deps/
+
+# CMake user files
+CMakeCache.txt
+CMakeFiles/
+CMakeUserPresets.json
+compile_commands.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+
+# CLion junk
+.idea/
+
+# VS Code
+.vscode/
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
